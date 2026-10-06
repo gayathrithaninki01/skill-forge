@@ -1,39 +1,3 @@
-# SkillForge — AI-Powered Skill Gap Detector
-### Hackathon Prototype | Team Project
-
----
-
-## 🚀 Quick Start
-
-**Option 1 — Double-click to open:**
-Just open `index.html` in any modern browser (Chrome, Edge, Firefox).
-
-**Option 2 — Local server (recommended for full experience):**
-```bash
-# Python
-python -m http.server 8080
-
-# Node.js (if installed)
-npx serve .
-```
-Then open: `http://localhost:8080`
-
----
-
-## 🗂️ Project Structure
-
-```
-skillforge/
-├── index.html        ← Complete app (single file, zero dependencies)
-└── README.md         ← This file
-```
-
-> **No build tools, no npm install, no setup required.**
-> One file opens in any browser instantly.
-
----
-
-## 🎯 Features Overview
 
 | Feature | Description |
 |---|---|
@@ -50,16 +14,6 @@ skillforge/
 | ▶️ **Demo Tour** | Guided 7-step walkthrough of all key features |
 
 ---
-
-## 🎤 Presentation Guide (For Judges)
-
-### Recommended Demo Flow:
-1. Open `index.html` → Landing page loads
-2. Click **"▶ Watch Demo Tour"** for guided walkthrough
-3. Click **"⚡ Analyze My Skills Free"** → Setup page
-4. Click **"⚡ Generate My Skill Analysis"** → Dashboard
-5. Walk through: **Skill DNA → Gap Analysis → Missions → ARIA Mentor → What If?**
-6. Click **"Judge View"** in navbar → Platform analytics + scoring panel
 
 ### Key Talking Points:
 - **Problem:** Students see "DSA Missing" — no context, no priority, no proof
@@ -91,7 +45,3 @@ skillforge/
 
 ---
 
-## 👥 Team & Contact
-
-**SkillForge Team**
-*Hackathon 2026*
